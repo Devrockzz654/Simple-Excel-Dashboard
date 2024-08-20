@@ -1,7 +1,7 @@
 
 
 # Car Sales Dashboard
-![Dashboard](https://github.com/Devrockzz654/Simple-Excel-Dashboard/blob/e835289d4e3a54191e67b416f22816e4306ba6bd/simple%20dashboard.png)
+![Dashboard](dashboard.png)
 ## Overview
 
 The Car Sales Dashboard is an Excel-based tool designed to provide a detailed and interactive analysis of car sales data. This dashboard is particularly useful for understanding the performance of different car brands and models, tracking sales trends over time, and comparing key metrics such as total sales, average selling prices, and sales volumes. 
